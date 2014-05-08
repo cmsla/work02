@@ -1,0 +1,25 @@
+html, body {
+	margin:0;
+}
+
+div{
+	overflow: hidden;
+	position: absolute;
+}
+.wood{
+	width: 600px;
+	height: 600px;
+}
+.w01{
+	background-image: url('img/wood01.jpg');	
+}
+.w02{
+	background-image: url('img/wood02.jpg');	
+}
+.w03{
+	background-image: url('img/wood03.jpg');	
+}
+.w04{
+	background-image: url('img/wood04.jpg');	
+}
+
